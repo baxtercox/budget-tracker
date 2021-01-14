@@ -4,7 +4,7 @@ Unit 18 PWA Homework - Online/Offline Budget Trackers
 
 ![Bootcamp Homework 18 shield](https://img.shields.io/badge/Bootcamp-Unit_18_PWA_Homework-green)
 
-[Link to deployed app](https://shrouded-reaches-04951.herokuapp.com/)
+[Link to deployed app](https://budge-appbc.herokuapp.com/)
 (Click to open app)
 
 GitHub Repo: https://github.com/baxtercox/budget-tracker/tree/main
